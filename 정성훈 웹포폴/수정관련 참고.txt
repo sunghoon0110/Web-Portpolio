@@ -1,0 +1,4 @@
+skills 수정
+1. 원형 백그라운드 컬러변경
+- custom.js ->175번줄 barcolor / trackcolor 변경
+
